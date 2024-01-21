@@ -23,5 +23,5 @@ If you see "**(+0.01e)**", that means that the price is bigger by a fixed amount
 {% hint style="info" %}
 If you see a "**-**" sign instead of a "**+**" sign, it is because there's no additional price but a **discount**. So the price of the pool is actually **less** than the live original price of 4096.
 
-This is useful for whitelisted pools created exclusively for a selected address, of it is useful if you want to sell your tokens quicker.
+This is useful for whitelisted pools created exclusively for a selected address, of if you just want to sell your tokens quicker.
 {% endhint %}

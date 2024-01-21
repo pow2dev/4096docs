@@ -4,6 +4,14 @@ description: Project overview
 
 # What is 4096
 
+## NOTE: docs are currently under construction.
+
+{% hint style="info" %}
+Docs are not yet complete. Full verstion will be available soon!
+{% endhint %}
+
+\
+\
 **Total supply: 4096**\
 **Decimals: 0**
 

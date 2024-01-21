@@ -23,6 +23,7 @@
 
     <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
+    \
     Slippage here is the equivalent of the slippage amount you put on Uniswap. The risk of being frontrunned using w4096 is very low, but still do not the slippage too high.
 
 {% hint style="info" %}

@@ -4,7 +4,7 @@ There is no special private group for 4096 Club. All the communication will be d
 
 Here are some key points you should know before the Club is live:
 
-1. Communication in the Club is anonymous and is done exclusively through the 4096 bot. Breaking this rule might result in sanctions against you.
+1. Communication in the Club is anonymous and is done exclusively through the 4096 bot. You must not try to explicitly expose your identity while communicating through the 4096 bot.
 2. There is a half-automated, half-manual moderation process. To ensure scam, hateful and low-quality content is filtered, all the messages that members submit to the bot are published with a delay later at a random moment of the day.
 3. You can send your messages not only to the Club members (choosing the minimum Tier required for members to receive your message), but also to the public channel. Same rules apply.
 4. Every member has their unique club ID. It is different from the telegram ID and allows to identify messages that are written by the same member while still keeping them anonymous.

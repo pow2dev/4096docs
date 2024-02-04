@@ -4,32 +4,26 @@ description: Project overview
 
 # What is 4096
 
-## NOTE: docs are currently under construction.
-
 {% hint style="info" %}
-Docs are not yet complete. Full verstion will be available soon!
-{% endhint %}
-
-\
-\
 **Total supply: 4096**\
 **Decimals: 0**
+{% endhint %}
 
 A minimum amount someone can trade is 1 whole token. Tokens cannot be divided into smaller parts, like 0.99, 5.5, 80.33 - it only can be, for example, 1, 5, 80.
 
 **Tax: 0% buy & 5% sell**, except for <20 tokens sells due to the token having 0 decimals\
 4% of the sell tax is going to burn
 
-## Additional burn mechanics
+## Unique burn mechanics
 
 ### Guaranteed burn cycles
 
 As a counter to the tax evasion, there is a guaranteed burn tax every 2/4/8/16 sells depending on the current amount of 4096 tokens in LP pair.
 
 {% hint style="info" %}
-There are 3 easy ways of checking the current amount of tokens in LP:
+There are 3 easy ways of checking the current amount of tokens in LP and the sells counter:
 
-1. On [4096.cash](https://4096.cash) graphics explorer
+1. On [4096.cash](https://4096.cash) graphics explorer and [app.4096.cash](https://app.4096.cash) on the "Teleport" tab
 2. In our [Telegrap group](https://t.me/ERC4096) by typing the `/4096` command
 3. On [Etherscan](https://etherscan.io/token/0x4096Fc7119040175589387656F7C6073265f4096?a=0x7c3f018376c7b97cb811cd17aa094052dbee6dbc)
 {% endhint %}
